@@ -22,7 +22,4 @@ public class Solution {
                 .orElse("");
     }
 
-    public static String findPrefix(String s1, String s2) {
-
-    }
 }
